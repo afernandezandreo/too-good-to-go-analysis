@@ -1,0 +1,4 @@
+item,value_gbp,note
+bag_price,4.00,Example Surprise Bag price
+platform_fee_per_bag,1.09,Flat fee for bags under 4.40 GBP
+annual_merchant_fee,46.80,Per merchant per year
