@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="504pt" height="288pt" viewBox="0 0 504 288" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-25T13:29:48.812111</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 504 288 
+L 504 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 50.156445 233.860859 
+L 492.12 233.860859 
+L 492.12 53.4425 
+L 50.156445 53.4425 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 70.245698 182.312757 
+L 132.494086 182.312757 
+L 132.494086 80.505254 
+L 70.245698 80.505254 
+z
+" clip-path="url(#pcef9767043)" style="fill: #0071e3"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 183.424585 80.505254 
+L 245.672973 80.505254 
+L 245.672973 141.074275 
+L 183.424585 141.074275 
+z
+" clip-path="url(#pcef9767043)" style="fill: #ae1800"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 296.603472 141.074275 
+L 358.85186 141.074275 
+L 358.85186 217.107726 
+L 296.603472 217.107726 
+z
+" clip-path="url(#pcef9767043)" style="fill: #ae1800"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 409.78236 182.312757 
+L 472.030748 182.312757 
+L 472.030748 217.107726 
+L 409.78236 217.107726 
+z
+" clip-path="url(#pcef9767043)" style="fill: #1d1d1f"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="ma838b59610" d="M 0 0 
+L 0 3.5 
+" style="stroke: #6e6e73; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#ma838b59610" x="101.369892" y="233.860859" style="fill: #6e6e73; stroke: #6e6e73; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #6e6e73" transform="translate(76.044111 251.517109)">Recurring</text>
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #6e6e73" transform="translate(81.86122 264.82668)">EBITDA</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#ma838b59610" x="214.548779" y="233.860859" style="fill: #6e6e73; stroke: #6e6e73; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #6e6e73" transform="translate(195.551435 251.517109)">Special</text>
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #6e6e73" transform="translate(200.543545 264.82668)">items</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#ma838b59610" x="327.727666" y="233.860859" style="fill: #6e6e73; stroke: #6e6e73; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #6e6e73" transform="translate(305.168213 251.517109)">D&amp;A and</text>
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #6e6e73" transform="translate(314.101416 264.82668)">other</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#ma838b59610" x="440.906554" y="233.860859" style="fill: #6e6e73; stroke: #6e6e73; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #6e6e73" transform="translate(415.213819 251.517109)">Operating</text>
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; fill: #6e6e73" transform="translate(426.353897 264.82668)">result</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <defs>
+       <path id="m5ec6ca46f4" d="M 0 0 
+L -3.5 0 
+" style="stroke: #6e6e73; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m5ec6ca46f4" x="50.156445" y="214.530321" style="fill: #6e6e73; stroke: #6e6e73; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #6e6e73" x="43.156445" y="219.858446" transform="rotate(-0 43.156445 219.858446)">−5</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m5ec6ca46f4" x="50.156445" y="182.312757" style="fill: #6e6e73; stroke: #6e6e73; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #6e6e73" x="43.156445" y="187.640882" transform="rotate(-0 43.156445 187.640882)">0</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m5ec6ca46f4" x="50.156445" y="150.095193" style="fill: #6e6e73; stroke: #6e6e73; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #6e6e73" x="43.156445" y="155.423318" transform="rotate(-0 43.156445 155.423318)">5</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m5ec6ca46f4" x="50.156445" y="117.877628" style="fill: #6e6e73; stroke: #6e6e73; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #6e6e73" x="43.156445" y="123.205753" transform="rotate(-0 43.156445 123.205753)">10</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m5ec6ca46f4" x="50.156445" y="85.660064" style="fill: #6e6e73; stroke: #6e6e73; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #6e6e73" x="43.156445" y="90.988189" transform="rotate(-0 43.156445 90.988189)">15</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m5ec6ca46f4" x="50.156445" y="53.4425" style="fill: #6e6e73; stroke: #6e6e73; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: end; fill: #6e6e73" x="43.156445" y="58.770625" transform="rotate(-0 43.156445 58.770625)">20</text>
+     </g>
+    </g>
+    <g id="text_11">
+     <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #6e6e73" x="22.538281" y="143.65168" transform="rotate(-90 22.538281 143.65168)">EUR million</text>
+    </g>
+   </g>
+   <g id="line2d_11">
+    <path d="M 50.156445 182.312757 
+L 492.12 182.312757 
+" clip-path="url(#pcef9767043)" style="fill: none; stroke: #1d1d1f; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 50.156445 233.860859 
+L 50.156445 53.4425 
+" style="fill: none; stroke: #d2d2d7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 50.156445 233.860859 
+L 492.12 233.860859 
+" style="fill: none; stroke: #d2d2d7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #1d1d1f" x="101.369892" y="76.639146" transform="rotate(-0 101.369892 76.639146)">+15.8</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #1d1d1f" x="214.548779" y="76.639146" transform="rotate(-0 214.548779 76.639146)">-9.4</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #1d1d1f" x="327.727666" y="137.208167" transform="rotate(-0 327.727666 137.208167)">-11.8</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: middle; fill: #1d1d1f" x="440.906554" y="178.446649" transform="rotate(-0 440.906554 178.446649)">-5.4</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #6e6e73" x="50.156445" y="46.225766" transform="rotate(-0 50.156445 46.225766)">Operating result -5.4 M EUR; excluding special items +4.0 M EUR</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #1d1d1f" x="50.156445" y="25.4425" transform="rotate(-0 50.156445 25.4425)">Without one-off costs, 2025 would have been profitable</text>
+   </g>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 8px; font-family: 'Inter', 'Helvetica Neue', 'Arial', 'DejaVu Sans'; text-anchor: start; fill: #6e6e73" x="5.04" y="285.12" transform="rotate(-0 5.04 285.12)">Source: Too Good To Go Holding ApS, Annual report 2025. Own calculations.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcef9767043">
+   <rect x="50.156445" y="53.4425" width="441.963555" height="180.418359"/>
+  </clipPath>
+ </defs>
+</svg>
